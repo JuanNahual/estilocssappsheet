@@ -5,11 +5,11 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-color: #ffc0cb; /* Fondo rosado */
+    background-color: #ffe4e1; /* Fondo rosado */
 }
 
 .header {
-    background-image: url('https://raw.githubusercontent.com/JuanNahual/estilocssappsheet/main/header1.png');
+    background-image: url('https://juannahual.github.io/estilocssappsheet/header1.png');
     background-size: cover;
     background-position: center;
     height: 50vh; /* Ajusta esta altura según sea necesario */
@@ -49,7 +49,7 @@ body {
     border-radius: 10px;
     margin: 10px;
     padding: 10px;
-    width: calc(33.33% - 20px); /* Tres productos por fila */
+    width: 30%; /* Tres productos por fila */
     text-align: center;
     background-color: #fff;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -80,14 +80,14 @@ body {
 }
 
 footer {
-    background-color: #800080; /* Color violeta */
+    background-color: #8a2be2; /* Fondo violeta */
     color: #fff;
     padding: 20px 0;
     text-align: center;
     margin-top: auto;
-    width: 100%;
-    position: fixed; /* Footer fijo */
+    position: fixed;
     bottom: 0;
+    width: 100%;
 }
 
 footer .contacto {
@@ -127,8 +127,8 @@ footer .direccion {
     margin-top: 10px;
 }
 
-.footer-logo {
-    background-image: url('https://raw.githubusercontent.com/JuanNahual/estilocssappsheet/main/logo.png');
+footer .logo {
+    background-image: url('https://juannahual.github.io/estilocssappsheet/logo.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
