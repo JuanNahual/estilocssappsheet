@@ -8,7 +8,7 @@ body {
 }
 
 .header {
-    background-image: url('https://github.com/JuanNahual/estilocssappsheet/header1.png');
+    background-image: url('https://raw.githubusercontent.com/JuanNahual/estilocssappsheet/main/header1.png');
     background-size: cover;
     background-position: center;
     height: 50vh; /* Ajusta esta altura según sea necesario */
@@ -126,8 +126,8 @@ footer .direccion {
     margin-top: 10px;
 }
 
-footer .logo {
-    background-image: url('https://github.com/JuanNahual/estilocssappsheet/logo.png');
+.footer-logo {
+    background-image: url('https://raw.githubusercontent.com/JuanNahual/estilocssappsheet/main/logo.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
