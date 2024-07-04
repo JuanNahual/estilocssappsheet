@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f8f8f8;
+    background-color: #ffffff;
     margin: 0;
     padding: 0;
 }
@@ -8,13 +8,14 @@ body {
 .catalogo-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center;
     padding: 20px;
+    background-color: #F8F8F8;
 }
 
 .producto {
-    background-color: #fff;
-    border: 2px solid #ddd;
+    background-color: #FFFFFF;
+    border: 2px solid #CCCCCC;
     border-radius: 10px;
     margin: 10px;
     padding: 10px;
@@ -31,13 +32,37 @@ body {
 
 .descripcion {
     font-size: 16px;
-    color: #333;
+    color: #000000;
     margin: 10px 0;
+    font-weight: bold;
 }
 
 .precio {
-    font-size: 20px;
-    color: #E74C3C;
+    font-size: 24px;
+    color: #FF0000;
     font-weight: bold;
     margin: 10px 0;
+}
+
+header {
+    background-color: #FF0000;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 10px 0;
+    margin-bottom: 20px;
+}
+
+.header-title {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.subheader {
+    background-color: #FFA500;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 5px 0;
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-weight: bold;
 }
