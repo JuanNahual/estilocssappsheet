@@ -9,7 +9,7 @@ body {
     background-image: url('https://juannahual.github.io/estilocssappsheet/header2.png');
     background-size: cover;
     background-position: center;
-    height: 50vh; /* Ajusta esta altura según sea necesario */
+    height: 70vh; /* Ajusta esta altura según sea necesario */
     display: flex;
     align-items: center;
     justify-content: center;
