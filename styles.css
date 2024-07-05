@@ -9,7 +9,7 @@ body {
     background-image: url('https://juannahual.github.io/estilocssappsheet/header2.png');
     background-size: cover;
     background-position: center;
-    height: 70vh; /* Ajusta esta altura según sea necesario */
+    height: 100vh; /* Ajusta esta altura según sea necesario */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -79,7 +79,6 @@ body {
 footer {
     background-color: #8a2be2; /* Fondo violeta */
     color: #fff;
-    padding: 20px 0;
     text-align: center;
     margin-top: auto;
     width: 100%;
