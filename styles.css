@@ -127,11 +127,3 @@ footer .direccion {
     margin-top: 10px;
 }
 
-footer .logo {
-    background-image: url('https://juannahual.github.io/estilocssappsheet/logo.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    height: 100px;
-    margin-top: 10px;
-}
